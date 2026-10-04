@@ -1,380 +1,213 @@
-# Cyrus Uwaoma — Full-Stack Software Engineer Portfolio
+Cyrus Uwaoma — Technical Support Engineer | Full-Stack Software Engineer
 
-![Portfolio Preview](./public/portfolio-preview.jpeg)
 
-## Overview
 
-This repository contains the source code for my personal portfolio website — a modern, interactive portfolio designed to showcase my work as a **Full-Stack Software Engineer**.
+This is the source code for my personal portfolio website.
 
-The portfolio goes beyond displaying projects. It is designed to demonstrate how I approach software engineering through **frontend development, backend architecture, API integration, database systems, authentication, responsive design, deployment, and user-focused product development**.
+I built it to have one place where I can show my technical support experience, the software projects I've worked on, the technologies I use, and how I've been developing as a full-stack engineer.
 
-> I build full-stack applications that turn ideas and real-world problems into usable digital products.
+Portfolio
 
----
+Live site: https://cyruz-porfolio-website.netlify.app/
 
-## 🚀 Live Portfolio
+GitHub: https://github.com/CyCodez
 
-**Portfolio:**  
-https://cyrus-portfolio-01.netlify.app/
+LinkedIn: https://www.linkedin.com/in/uwaomacyrus/
 
-**GitHub:**  
-https://github.com/CyCodez
+What's on the site
 
-**LinkedIn:**  
-https://www.linkedin.com/in/uwaomacyrus/
+The portfolio includes:
 
----
+An introduction and short background
 
-## ✨ Features
+My technical skills
 
-### Interactive Hero Section
+Selected projects with live demos and source code
 
-The landing section introduces my engineering focus with:
+My development experience
 
-- Full-Stack Engineer positioning
-- Animated typography
-- Profile presentation
-- Interactive visual effects
-- Technology highlights
-- Call-to-action buttons
-- CV download
-- Responsive layout
+A CV download
 
-### About
+Contact information
 
-A concise overview of my engineering background, development approach, and technical capabilities.
+The site is responsive and works across desktop, tablet, and mobile screens. I also added a few animations and hover effects to make the interface feel more interactive without making the site difficult to use.
 
-### Engineering Skills
+Projects
 
-The portfolio showcases my experience across:
+NetworkLens
 
-- Frontend development
-- Backend development
-- Database systems
-- API development
-- Authentication
-- Third-party integrations
-- Deployment
-- Version control
+IP Intelligence Explorer
 
-### Project Showcase
+NetworkLens lets users look up an IP address and view information such as location, country, city, timezone, ISP, coordinates, and the location on an interactive map.
 
-Projects are presented as real applications rather than simple screenshots.
+Built with: React, Node.js, Express.js, REST API, Leaflet
 
-Each project communicates:
+Live: https://networklenz.netlify.app/
 
-- The problem being solved
-- The technology used
-- Key functionality
-- Engineering approach
-- Live application
-- Source code
+Source: https://github.com/CyCodez/NetworkLens
 
-### Responsive Design
+CareFinder
 
-The portfolio is designed to work across:
+Healthcare Discovery Application
 
-- Desktop
-- Laptop
-- Tablet
-- Mobile devices
+CareFinder is an application for finding healthcare providers, viewing provider information, and managing appointment requests.
 
-### Animation & Interaction
+It includes authentication, location-based search, an interactive map, user dashboards, and appointment management.
 
-The interface uses carefully controlled animations and transitions to create a more engaging experience while maintaining usability.
+Built with: React, Firebase, Firestore, REST APIs, Location APIs
 
-Animations include:
+Live: https://carefinder-application.web.app/
 
-- Scroll reveal effects
-- Hover interactions
-- Card transitions
-- Navigation interactions
-- Animated technology elements
-- Background effects
-- Button interactions
+Source: https://github.com/CyCodez/Carefinder-Application
 
-### Accessibility & Motion Considerations
+BankRecharge
 
-The interface includes responsive behavior and reduced-motion considerations to provide a better experience for users who prefer minimal animation.
+Full-Stack Banking & Recharge Application
 
----
+BankRecharge is a full-stack application I built to work with user authentication, backend APIs, database operations, and user workflows.
 
-# 🛠️ Technology Stack
+Built with: React, Node.js, Express.js, MongoDB, REST APIs
 
-## Frontend
+Live: https://bankrecharge.netlify.app/
 
-- HTML5
-- CSS3
-- JavaScript
-- React.js
-- React Icons
+Source: https://github.com/CyCodez/BankRecharge-FullStack
 
-## Backend & APIs
+Student Management System
 
-- Node.js
-- Express.js
-- REST APIs
-- API Integration
-- Authentication
+A full-stack application for managing student information and database records.
 
-## Database & Cloud Services
+Built with: React, Node.js, MongoDB, REST APIs
 
-- MongoDB
-- Firebase
-- Cloud Firestore
+Live: https://student-database-frontend-elsx.onrender.com
 
-## Development Tools
+Source: https://github.com/CyCodez/student_database_db
 
-- Git
-- GitHub
-- npm
-- Vite
-- Postman
+Pizza Application
 
-## Deployment
+A React application built around reusable components, application state, dynamic rendering, and user interaction.
 
-- Netlify
-- Render
-- Firebase Hosting
+Built with: React, JavaScript, CSS
 
----
+Live: https://cy-pizza-app.netlify.app/
 
-# 📂 Featured Projects
+Source: https://github.com/CyCodez/pizza-menu
 
-## 🌐 NetworkLens
+Travel List
 
-**IP Intelligence Explorer**
+A React application for adding, organizing, and managing items for a trip.
 
-NetworkLens is a full-stack application that transforms public IP addresses into useful geographic and network intelligence.
+Built with: React, JavaScript, CSS
 
-### Features
+Live: https://travel-list-app01.netlify.app/
 
-- IP address lookup
-- Geographic information
-- Country and city detection
-- Region and timezone information
-- ISP/network information
-- Geographic coordinates
-- Interactive map
-- Search history
+Source: https://github.com/CyCodez/travel-app
 
-### Technologies
+Tourist Website
 
-`React` `Node.js` `Express.js` `REST API` `Leaflet`
+A responsive tourism website built to practice layouts, reusable UI elements, and interactive frontend features.
 
-**Live:**  
-https://networklenz.netlify.app/
+Built with: HTML, CSS, JavaScript
 
-**Source:**  
-https://github.com/CyCodez/NetworkLens
+Live: https://tour-project-01.netlify.app/
 
----
+Source: https://github.com/CyCodez/Tour-project
 
-## 🏥 CareFinder
+Technologies
 
-**Healthcare Discovery Application**
+Frontend
 
-CareFinder is a healthcare discovery application designed to help users discover healthcare providers, inspect provider information, and manage appointment requests.
+HTML5
 
-### Features
+CSS3
 
-- Healthcare provider discovery
-- Location-based search
-- Provider information
-- Interactive map
-- Authentication
-- Appointment requests
-- User dashboard
-- Appointment management
-- Firestore data management
+JavaScript
 
-### Technologies
+React.js
 
-`React` `Firebase` `Firestore` `REST APIs` `Location APIs`
+React Icons
 
-**Live:**  
-https://carefinder-application.web.app/
+Backend
 
-**Source:**  
-https://github.com/CyCodez/Carefinder-Application
+Node.js
 
----
+Express.js
 
-## 💳 BankRecharge
+REST APIs
 
-**Full-Stack Banking & Recharge Application**
+Databases & Services
 
-BankRecharge is a full-stack application built around authentication, user workflows, backend services, database operations, and application functionality.
+MongoDB
 
-### Technologies
+Firebase
 
-`React` `Node.js` `Express.js` `MongoDB` `REST APIs`
+Cloud Firestore
 
-**Live:**  
-https://bankrecharge.netlify.app/
+Tools
 
-**Source:**  
-https://github.com/CyCodez/BankRecharge-FullStack
+Git
 
----
+GitHub
 
-## 🎓 Student Management System
+npm
 
-A full-stack application for managing student-related information and database operations.
+Vite
 
-### Technologies
+Postman
 
-`React` `Node.js` `MongoDB` `REST APIs`
+Deployment
 
-**Live:**  
-https://student-database-frontend-elsx.onrender.com
+Netlify
 
-**Source:**  
-https://github.com/CyCodez/student_database_db
+Render
 
----
+Firebase Hosting
 
-## 🍕 Pizza Application
+How I build projects
 
-A responsive React application focused on dynamic UI rendering, reusable components, application state, and user interaction.
+I usually start with the problem I'm trying to solve, then work through the interface, application logic, API, database, testing, and deployment.
 
-### Technologies
+For me, building a project isn't only about getting the code to run. I also pay attention to how the application feels to use, how the different parts communicate with each other, and whether the code can be maintained as the project grows.
 
-`React` `JavaScript` `CSS`
+Project structure
 
-**Live:**  
-https://cy-pizza-app.netlify.app/
-
-**Source:**  
-https://github.com/CyCodez/pizza-menu
-
----
-
-## ✈️ Travel List
-
-A React application for managing and organizing travel-related items and activities.
-
-### Technologies
-
-`React` `JavaScript` `CSS`
-
-**Live:**  
-https://travel-list-app01.netlify.app/
-
-**Source:**  
-https://github.com/CyCodez/travel-app
-
----
-
-## 🌍 Tourist Website
-
-A responsive tourism-focused web application demonstrating frontend development, responsive layouts, reusable UI components, and interactive interfaces.
-
-### Technologies
-
-`HTML` `CSS` `JavaScript`
-
-**Live:**  
-https://tour-project-01.netlify.app/
-
-**Source:**  
-https://github.com/CyCodez/Tour-project
-
----
-
-# 🧠 Engineering Approach
-
-I approach software development by thinking about the complete lifecycle of an application.
-
-```text
-Problem
-   ↓
-Understand the User
-   ↓
-Design the Experience
-   ↓
-Build the Interface
-   ↓
-Develop APIs & Business Logic
-   ↓
-Design the Database
-   ↓
-Integrate External Services
-   ↓
-Test & Debug
-   ↓
-Deploy
-   ↓
-Improve
-
-My goal is not simply to make an application work.
-
-I aim to build software that is:
-
-Usable
-Maintainable
-Responsive
-Scalable
-Secure
-Practical
-Focused on solving a real problem
-
+The portfolio is a React/Vite application. The main source files are organised around the application, reusable components, sections, and assets.
 
 src/
-│
 ├── assets/
 │   ├── profile-pics.jpeg
 │   └── project assets
-│
 ├── components/
 │   └── reusable UI components
-│
 ├── sections/
 │   ├── Hero
 │   ├── About
 │   ├── Skills
 │   ├── Projects
 │   └── Contact
-│
 ├── App.jsx
 ├── App.css
 └── main.jsx
-│
-├── index.html
-└── package.json
 
+index.html
+package.json
 
-🎨 Design System
+Getting started
 
-The visual direction combines a dark technology-inspired interface with:
+Requirements
 
-Deep navy backgrounds
-Electric blue accents
-Blue-to-purple gradients
-Glass-inspired surfaces
-Technical grid patterns
-Glowing borders
-Large display typography
-Monospace technical elements
-Subtle ambient effects
-
-The design intentionally communicates software engineering, technology, and modern digital products rather than following a conventional portfolio template.
-
-⚙️ Getting Started
-Prerequisites
-
-Make sure you have installed:
+You'll need:
 
 Node.js
+
 npm
+
 Git
 
-You can verify your installation with:
+Check that they are installed:
 
 node --version
 npm --version
 git --version
-
 
 Installation
 
@@ -382,11 +215,11 @@ Clone the repository:
 
 git clone https://github.com/CyCodez/Cyrus-Portfolio.git
 
-Navigate into the project:
+Move into the project folder:
 
 cd Cyrus-Portfolio
 
-Install dependencies:
+Install the dependencies:
 
 npm install
 
@@ -394,125 +227,55 @@ Start the development server:
 
 npm run dev
 
-The application will then be available through the local Vite development URL.
+Vite will provide the local development URL in the terminal.
 
-🏭 Production Build
+Production build
 
-Create a production build:
+To create a production build:
 
 npm run build
 
-Preview the production build locally:
+To preview the build locally:
 
 npm run preview
-🔐 Environment Variables
 
-Some projects displayed in the portfolio may use external APIs or environment variables.
+Environment variables
+
+Some of the applications featured in the portfolio use external APIs and environment variables.
 
 For example:
 
 VITE_API_URL=your_api_url
 VITE_API_KEY=your_api_key
 
-Do not commit private API keys, credentials, or secrets to GitHub.
+Private keys, passwords, and other secrets should not be committed to the repository.
 
-Use environment variables for sensitive configuration.
+About me
 
-📱 Responsive Experience
+I'm Cyrus Uwaoma, a Technical Support Engineer and Full-Stack Software Engineer. My experience sits across customer support, troubleshooting, and building practical web applications.
 
-The portfolio adapts its layout based on screen size.
+On the development side, my current stack includes:
 
-Desktop
-Fixed navigation
-Split hero layout
-Large typography
-Project showcase
-Technology animations
-Tablet
-Adaptive spacing
-Flexible grids
-Adjusted typography
-Mobile
-Compact navigation
-Stacked sections
-Responsive project cards
-Mobile-friendly buttons
-Optimized typography
-🎯 Purpose
+Frontend: HTML, CSS, JavaScript, React
 
-This portfolio was built to serve two purposes:
+Backend: Node.js, Express.js
 
-1. Professional Portfolio
+APIs: REST APIs and third-party integrations
 
-To provide recruiters, hiring managers, developers, and potential collaborators with a clear overview of my technical abilities and projects.
+Databases: MongoDB, Firebase, Firestore
 
-2. Engineering Demonstration
+Deployment: Netlify, Render, Firebase Hosting
 
-The portfolio itself demonstrates my ability to:
+I hold a Diploma in Frontend Engineering from AltSchool Africa and I'm currently continuing my full-stack software engineering training at NIIT.
 
-Build React applications
-Create responsive interfaces
-Structure reusable components
-Work with APIs
-Integrate external services
-Implement interactive experiences
-Manage application state
-Work with authentication
-Deploy web applications
-Think about software from both technical and user perspectives
-📈 Continuous Development
+Alongside development, I have hands-on experience supporting users, troubleshooting technical issues, explaining technical concepts clearly, and helping customers get the most out of software products.
 
-The portfolio is an evolving project.
+Contact
 
-As I continue developing my engineering skills, I plan to improve areas such as:
+If you'd like to discuss a project, an opportunity, or just connect:
 
-Advanced TypeScript
-Scalable backend architecture
-Advanced API design
-Application security
-Cloud services
-Testing
-Performance optimization
-Advanced database architecture
-System design
-👨‍💻 About Me
+GitHub: https://github.com/CyCodez
 
-I'm Cyrus Uwaoma, a Full-Stack Software Engineer focused on building practical digital products.
+LinkedIn: https://www.linkedin.com/in/uwaomacyrus/
 
-My development experience covers:
-
-Frontend
-   ↓
-HTML • CSS • JavaScript • React
-   ↓
-Backend
-   ↓
-Node.js • Express.js
-   ↓
-APIs
-   ↓
-REST APIs • Third-Party Integrations
-   ↓
-Database
-   ↓
-MongoDB • Firebase • Firestore
-   ↓
-Deployment
-   ↓
-Netlify • Render • Firebase Hosting
-
-I hold a Diploma in Frontend Engineering from AltSchool Africa and continue to expand my full-stack engineering knowledge through NIIT.
-
-🤝 Let's Connect
-
-If you're interested in software engineering, product development, collaboration, or simply want to connect, feel free to reach out.
-
-GitHub:
-https://github.com/CyCodez
-
-LinkedIn:
-https://www.linkedin.com/in/uwaomacyrus/
-
-Email:
-uwaomacyruz@gmail.com
-
+Email: uwaomacyruz@gmail.com
